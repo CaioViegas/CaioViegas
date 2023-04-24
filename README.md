@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CaioViegas/CaioViegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Olá!
+
+#### Meu nome é Caio Costa Viegas, nascido na cidade do Rio de Janeiro, atualmente morando em Curitiba.
+#### Tenho interesse em tecnologias de Data Science.
