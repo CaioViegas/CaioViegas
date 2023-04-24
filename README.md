@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá!
+# Olá!
 
-#### Meu nome é Caio Costa Viegas, nascido na cidade do Rio de Janeiro, atualmente morando em Curitiba.
-#### Tenho interesse em tecnologias de Data Science.
+### Meu nome é Caio Costa Viegas, nascido na cidade do Rio de Janeiro, atualmente morando em Curitiba.
+### Tenho interesse em tecnologias de Data Science.
+
+### - Atualmente participando do programa de bolsas da compass.uol sobre D&A-AWS e cursando Tecnologia em Ciência de Dados na UNINTER;
+### - Tenho conhecimentos sobre Python(Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit), MySQL e PostgreSQL;
