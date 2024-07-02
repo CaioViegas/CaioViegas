@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Caio Costa Viegas</h1>
+<h1 align="center">Hi / Olá 👋</h1>
 <h3 align="center">Estudante desbravando o mundo de dados.</h3>
+
+Olá, eu sou o Caio. Estudante de Ciência de Dados, Análise de Dados e Machine Learning.
 
 - 🌱 I’m currently learning **Ciência de Dados / Análise de Dados**
 
