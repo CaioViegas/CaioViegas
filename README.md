@@ -3,6 +3,8 @@
 
 Olá, eu sou o Caio. Estudante de Ciência de Dados, Análise de Dados e Machine Learning.
 
+Minhas principais habilidades:
+
 - Criação de gráficos utilizando bibliotecas em Python (Seaborn, Matplotlib e Plotly)
 - Análise Exploratória de Dados utilizando Pandas e Numpy
 - Criação e Avaliação de modelos de Machine Learning (Classificação, Regressão e Clustering) com Scikit
