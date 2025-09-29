@@ -6,6 +6,14 @@
 
 ---
 
+## 📌 Destaques
+- 🎯 Foco em **Ciência de Dados e Machine Learning**  
+- 📊 Experiência em **análise, visualização e modelagem de dados**  
+- ☁️ Conhecimentos em **Cloud (AWS, PySpark)**  
+- 📈 Projetos aplicados em **criptomoedas, cibersegurança e previsão de tempo**
+
+---
+
 ## 🚀 Minhas Habilidades  
 
 ### 💻 Linguagens & Bibliotecas  
@@ -34,21 +42,11 @@
 
 ## 📂 Projetos em Destaque  
 
-### 🔹 [Relatório Cripto](https://github.com/CaioViegas/relatorio_cripto)  
-📌 Coleta dados de criptomoedas via **CoinGecko API**, armazena em **PostgreSQL** e suporta dashboards no **Power BI**.  
-**Techs:** Python, Pandas, Requests, SQLAlchemy, PostgreSQL, Playwright, Power BI  
-
----
-
-### 🔹 [Detecção de Ciberataques](https://github.com/CaioViegas/deteccao_ciberataques) ⭐  
-📌 Pipeline completo de **Ciência de Dados e Machine Learning** para detectar intrusões e atividades fraudulentas.  
-**Techs:** Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly, Scipy, Joblib  
-
----
-
-### 🔹 [Relatório de Tempo](https://github.com/CaioViegas/relatorio_tempo)  
-📌 Coleta dados da **API Open-Meteo**, gera dashboards com **Seaborn** e envia relatórios automáticos por e-mail.  
-**Techs:** Python, Pandas, Requests, Seaborn, Matplotlib, Jinja2, Playwright, dotenv  
+| Projeto | Descrição | Principais Techs |
+|---------|-----------|------------------|
+| [Relatório Cripto](https://github.com/CaioViegas/relatorio_cripto) | Coleta e armazena dados de criptomoedas, dashboards no Power BI | Python, PostgreSQL, Power BI |
+| [Detecção de Ciberataques](https://github.com/CaioViegas/deteccao_ciberataques) ⭐ | ML para detecção de fraudes e intrusões em dados de cibersegurança | Python, Scikit-learn, Seaborn |
+| [Relatório de Tempo](https://github.com/CaioViegas/relatorio_tempo) | API de clima + dashboards automáticos + envio por e-mail | Python, Seaborn, Jinja2 |
 
 ---
 
@@ -61,12 +59,32 @@
 
 ---
 
+## 📈 Contribuições Recentes  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioViegas&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioViegas&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Conecte-se comigo  
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gitfollio.vercel.app/CaioViegas)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-costa-viegas-593614219/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.costaviegas@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioViegas)  
 
 ---
 
-✨ *“Transformando dados em valor real para negócios e pessoas.”*  
+## 📚 Atualmente aprendendo
+- ⚡ Deep Learning (TensorFlow / PyTorch)  
+- 🗂️ Engenharia de Dados em larga escala  
+- ☁️ Integrações avançadas com AWS  
+
+---
+
+💡 *"Dados por si só não mudam nada — o valor está em como os transformamos em decisões."*  
