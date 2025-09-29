@@ -1,10 +1,3 @@
-# 🌐 Portfólio
-
-Acesse meu portfólio em:  
-[🔗 https://gitfollio.vercel.app/CaioViegas](https://gitfollio.vercel.app/CaioViegas)
-
----
-
 <!-- GitFolio:start
 {
   "gitfolio": "on",
