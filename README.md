@@ -1,4 +1,3 @@
-<!-- GitFolio:start
 {
   "gitfolio": "on",
   "name": "Caio Costa Viegas",
@@ -95,4 +94,3 @@
     }
   ]
 }
-GitFolio:end -->
